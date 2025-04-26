@@ -8,11 +8,22 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "**Overview**",
   "devDependencies": {
     "jest": "^29.7.0"
   },
   "dependencies": {
     "datejs": "^1.0.0-rc3"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristianJodice/Lab-Merge-Users.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ChristianJodice/Lab-Merge-Users/issues"
+  },
+  "homepage": "https://github.com/ChristianJodice/Lab-Merge-Users#readme"
 }
